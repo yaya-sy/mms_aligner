@@ -1,1 +1,1 @@
-# mms_aligner
+# Detached MMS Aligner
